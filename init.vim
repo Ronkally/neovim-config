@@ -26,6 +26,9 @@ Plug 'romgrk/barbar.nvim'
 "Vue Plugin
 Plug 'leafOfTree/vim-vue-plugin'
 
+"Autocompletion
+Plug 'neoclide/coc.vim', {'branch': 'release'}
+
 "Theme
 Plug 'morhetz/gruvbox'
 
