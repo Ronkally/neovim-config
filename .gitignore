@@ -1,0 +1,5 @@
+# exclude everything
+plugged/*
+
+# exception to the rule
+!plugged/.gitkeep 
