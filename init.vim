@@ -25,9 +25,6 @@ call plug#begin('/Users/lerro/AppData/Local/nvim/plugged')
 "Set up your plugins here
 Plug 'romgrk/barbar.nvim'
 
-"Vue Plugin
-Plug 'leafOfTree/vim-vue-plugin'
-
 "Autocompletion
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
